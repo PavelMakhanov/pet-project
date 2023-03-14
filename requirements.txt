@@ -1,0 +1,6 @@
+joblib
+datetime
+geopy
+Nominatim
+numpy
+scikit-learn
